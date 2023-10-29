@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TANYA03GUPTA
 - 👀 I’m interested in ...web devolepment,crypto,nfts
-- 🌱 I’m currently learning ...backend web dev
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...to master React
+- 💞️ I’m looking to collaborate on ... Full stack projects, hackathons, dsa cp competitions.
 - 📫 How to reach me ...gupta14aynat@gmail.com
 
 <!---
